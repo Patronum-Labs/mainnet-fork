@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Foundry and Hardhat template for forking a live network and testing against it.",
   "scripts": {
+    "build": "npx hardhat compile",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "PatronumLabs YamenMerhi",
