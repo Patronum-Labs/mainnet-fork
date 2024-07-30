@@ -1,0 +1,21 @@
+{
+  "name": "@patronumlabs/mainnet-fork",
+  "version": "1.0.0",
+  "description": "Foundry and Hardhat template for forking a live network and testing against it.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PatronumLabs YamenMerhi",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.6",
+    "prettier": "^3.3.3",
+    "prettier-plugin-solidity": "^1.3.1",
+    "solhint": "^5.0.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5"
+  }
+}
