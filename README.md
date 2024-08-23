@@ -1,11 +1,13 @@
-# mainnet-fork [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license]
+# mainnet-fork [![GitHub Repo stars](https://img.shields.io/github/stars/Patronum-Labs/mainnet-fork?style=social)](https://github.com/Patronum-Labs/mainnet-fork) [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license] 
 
 [hardhat]: https://hardhat.org/
 [hardhat-badge]: https://img.shields.io/badge/Built%20with-Hardhat-FFDB1C.svg
 [license]: https://opensource.org/licenses/MIT
 [license-badge]: https://img.shields.io/badge/License-MIT-blue.svg
 
-A Hardhat template for testing against a live network.
+**A Hardhat template for testing against a live network.**
+<p><b>Star this project on GitHub to make it reach more developers.</b></p> 
+
 
 ## Getting Started
 
